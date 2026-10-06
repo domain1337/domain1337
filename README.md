@@ -1,9 +1,5 @@
-<!--
-БАННЕР: загрузите свой арт как assets/banner.png в этот репозиторий,
-затем удалите строки комментария вокруг тега <img> ниже.
-Рекомендуемый размер: 1600 × 500 px или шире, формат PNG/WebP, до 2 МБ.
--->
-<!-- <p align="center"><img src="./assets/banner.png" alt="Гранж-баннер профиля domain1337" width="100%"></p> -->
+<!-- Чтобы заменить баннер, загрузите новый файл в assets/banner.png. -->
+<p align="center"><img src="./assets/banner.png" alt="Гранж-баннер профиля domain1337" width="100%"></p>
 
 <div align="center">
 
