@@ -11,7 +11,6 @@
 <p><code>&lt; &gt; I l♥ve coding &lt; / &gt;</code></p>
 
 
-<sub>Делаю приложения, учусь на ошибках и довожу идеи до рабочего состояния.</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=domain1337&color=6b344c&style=flat-square&label=views)
 
@@ -23,7 +22,6 @@
 
 Пишу на **C# / .NET**, работаю с интерфейсами, базами данных и API. Есть проекты на **Java / Android**. Сейчас углубляюсь в backend и SQL.
 
-> Хороший проект рождается не с первого раза. Главное — продолжать собирать его по частям.
 
 ```text
 while(alive) {
